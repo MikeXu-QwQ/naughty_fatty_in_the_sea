@@ -4,15 +4,21 @@ project prototype reference https://editor.p5js.org/ltomlinson/sketches/3yY82TBx
 【how to play】
 so far accesible：
 1-UNZIP the file
+
 2-open it in VScode
+
 3-make sure your laptop&phone connect the same wifi
+
 4-CLICK INDEX.HTML WITH MOUSE RIGHT BUTTON"OPEN WITH LIFE SURVER"
 <img width="1449" height="866" alt="image" src="https://github.com/user-attachments/assets/441ab6a0-791a-485b-b817-8637f4a9e28d" />
+
 5-CHOOSE TERMINAL,TYPE"IP CONFIG" FIND YOUR HOST NAME
 <img width="336" height="27" alt="image" src="https://github.com/user-attachments/assets/da64eb3c-4608-469d-94f0-3831b51f53e2" />
+
 6--Open 【Chrome】on your mobile phone
+
 7--http://YOUR HOST NAME/NodeWebSocket_PaintDemo_STARTER/public/
-(this game should be functional both on android/apple system)
+(this game should be functional both on android/apple IOS system)
 
 
 
@@ -28,10 +34,14 @@ A++---multiple player mode,each player can become a whale
 I started from PLAN A
 【noumenon】
 1-make a whale with mouseX&Y
+
 2-make a simply interective cyber whale
 (they will follow u accroding to the mouseX&Y)
+
 【Different device linkage/network connection】
+
 1-Can be played on the phone(touch the screen)
+
 2-multiple players attract multiple whales at the same time(optional/potintial extension)
 
 I start to test the phone interection directly from this[project prototype reference https://editor.p5js.org/ltomlinson/sketches/3yY82TBxQ]
